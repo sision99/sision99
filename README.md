@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sision99
 - 👀 I’m interested in webdevelopment 
 - 🌱 I’m currently learning how to create a web UI with ASP.NET Core
-- 💞️ I’m looking to collaborate on ...
+- ..
 - 📫 How to reach me felistasision@gmail.com
 
 <!---
